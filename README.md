@@ -1,7 +1,3 @@
 Jatin Codes
 <br>
-My practice programs
-<br>
-hello
-<br>
-hi
+These are some practice programs that I have learnt about.
